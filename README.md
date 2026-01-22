@@ -1,3 +1,3 @@
-These files are unrelated and not a part of a project.
+These files are completely unrelated and not part of any particular project.
 These were added as a part of coding exercise for learning Python language.
-Someone new to python can use this practice scripts.
+Anyone new to python can utilize these to practice scripts.
